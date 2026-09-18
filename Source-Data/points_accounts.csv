@@ -1,0 +1,801 @@
+account_id,user_id,program,points_balance,account_type
+A00001,U0238,Flying Blue,166945,Airline Loyalty
+A00002,U0381,Axis EDGE,133389,Airline Loyalty
+A00003,U0436,HSBC Rewards,30372,Airline Loyalty
+A00004,U0387,Aeroplan,8642,Credit Card
+A00005,U0483,Axis EDGE,164073,Credit Card
+A00006,U0425,Etihad Guest,39064,Credit Card
+A00007,U0390,Amex Membership Rewards,19122,Airline Loyalty
+A00008,U0025,Amex Membership Rewards,160892,Credit Card
+A00009,U0141,Axis EDGE,73431,Airline Loyalty
+A00010,U0117,Flying Blue,60745,Credit Card
+A00011,U0482,Aeroplan,55081,Airline Loyalty
+A00012,U0392,HDFC Rewards,144783,Airline Loyalty
+A00013,U0405,HDFC Rewards,154865,Airline Loyalty
+A00014,U0482,Etihad Guest,144271,Airline Loyalty
+A00015,U0452,Flying Blue,81253,Airline Loyalty
+A00016,U0025,ICICI Rewards,41191,Airline Loyalty
+A00017,U0079,ICICI Rewards,15211,Airline Loyalty
+A00018,U0068,HSBC Rewards,116086,Airline Loyalty
+A00019,U0173,Aeroplan,157614,Airline Loyalty
+A00020,U0444,Aeroplan,167384,Credit Card
+A00021,U0012,Amex Membership Rewards,106971,Credit Card
+A00022,U0288,United MileagePlus,98783,Credit Card
+A00023,U0128,Etihad Guest,130681,Credit Card
+A00024,U0096,HDFC Rewards,92893,Credit Card
+A00025,U0092,Etihad Guest,163763,Airline Loyalty
+A00026,U0141,ICICI Rewards,82960,Airline Loyalty
+A00027,U0031,ICICI Rewards,89388,Airline Loyalty
+A00028,U0334,Axis EDGE,27601,Credit Card
+A00029,U0020,HSBC Rewards,154092,Credit Card
+A00030,U0146,Aeroplan,144227,Credit Card
+A00031,U0477,Etihad Guest,172849,Credit Card
+A00032,U0316,ICICI Rewards,24710,Credit Card
+A00033,U0447,United MileagePlus,113714,Credit Card
+A00034,U0390,Amex Membership Rewards,160604,Airline Loyalty
+A00035,U0160,HDFC Rewards,133727,Airline Loyalty
+A00036,U0349,HSBC Rewards,154673,Credit Card
+A00037,U0043,United MileagePlus,68227,Credit Card
+A00038,U0254,HSBC Rewards,141039,Credit Card
+A00039,U0130,Axis EDGE,89289,Credit Card
+A00040,U0060,ICICI Rewards,156094,Airline Loyalty
+A00041,U0151,Amex Membership Rewards,179535,Credit Card
+A00042,U0467,United MileagePlus,10722,Credit Card
+A00043,U0287,HSBC Rewards,163485,Credit Card
+A00044,U0499,Aeroplan,86050,Credit Card
+A00045,U0005,Axis EDGE,88596,Airline Loyalty
+A00046,U0467,Aeroplan,71732,Airline Loyalty
+A00047,U0418,Amex Membership Rewards,148369,Airline Loyalty
+A00048,U0266,United MileagePlus,73323,Credit Card
+A00049,U0345,Axis EDGE,28816,Credit Card
+A00050,U0130,United MileagePlus,45695,Credit Card
+A00051,U0382,ICICI Rewards,155774,Airline Loyalty
+A00052,U0267,Flying Blue,161314,Credit Card
+A00053,U0178,Axis EDGE,60841,Credit Card
+A00054,U0253,Aeroplan,133498,Credit Card
+A00055,U0415,Amex Membership Rewards,112096,Airline Loyalty
+A00056,U0056,ICICI Rewards,97764,Credit Card
+A00057,U0463,Flying Blue,90744,Credit Card
+A00058,U0457,HDFC Rewards,33482,Credit Card
+A00059,U0471,ICICI Rewards,14171,Airline Loyalty
+A00060,U0083,Amex Membership Rewards,105755,Credit Card
+A00061,U0393,HSBC Rewards,113125,Airline Loyalty
+A00062,U0099,Axis EDGE,135722,Credit Card
+A00063,U0149,United MileagePlus,111082,Airline Loyalty
+A00064,U0329,Amex Membership Rewards,8696,Airline Loyalty
+A00065,U0156,Axis EDGE,131310,Credit Card
+A00066,U0190,United MileagePlus,156130,Airline Loyalty
+A00067,U0494,Etihad Guest,156385,Credit Card
+A00068,U0371,Aeroplan,24149,Airline Loyalty
+A00069,U0263,HDFC Rewards,135064,Airline Loyalty
+A00070,U0080,ICICI Rewards,58521,Credit Card
+A00071,U0400,Amex Membership Rewards,50740,Airline Loyalty
+A00072,U0252,HDFC Rewards,111611,Airline Loyalty
+A00073,U0097,HSBC Rewards,141028,Credit Card
+A00074,U0260,Axis EDGE,71641,Credit Card
+A00075,U0260,Axis EDGE,68811,Airline Loyalty
+A00076,U0103,Amex Membership Rewards,68232,Airline Loyalty
+A00077,U0040,Flying Blue,20417,Credit Card
+A00078,U0273,Flying Blue,160801,Credit Card
+A00079,U0101,Etihad Guest,117492,Credit Card
+A00080,U0359,Aeroplan,35099,Credit Card
+A00081,U0380,United MileagePlus,166033,Credit Card
+A00082,U0308,HSBC Rewards,148674,Airline Loyalty
+A00083,U0221,HDFC Rewards,123474,Credit Card
+A00084,U0308,Flying Blue,14256,Airline Loyalty
+A00085,U0420,Etihad Guest,39681,Credit Card
+A00086,U0124,Etihad Guest,96328,Credit Card
+A00087,U0422,Amex Membership Rewards,48361,Credit Card
+A00088,U0231,HSBC Rewards,39540,Credit Card
+A00089,U0178,United MileagePlus,162608,Airline Loyalty
+A00090,U0063,Aeroplan,89700,Airline Loyalty
+A00091,U0485,ICICI Rewards,83532,Airline Loyalty
+A00092,U0116,Amex Membership Rewards,132626,Airline Loyalty
+A00093,U0191,United MileagePlus,138943,Airline Loyalty
+A00094,U0062,ICICI Rewards,51002,Credit Card
+A00095,U0256,ICICI Rewards,54812,Airline Loyalty
+A00096,U0483,HSBC Rewards,158698,Airline Loyalty
+A00097,U0007,HSBC Rewards,113946,Credit Card
+A00098,U0155,HDFC Rewards,71668,Airline Loyalty
+A00099,U0092,Etihad Guest,104003,Credit Card
+A00100,U0470,United MileagePlus,47998,Credit Card
+A00101,U0014,Amex Membership Rewards,109601,Airline Loyalty
+A00102,U0455,Axis EDGE,12812,Credit Card
+A00103,U0229,Amex Membership Rewards,66844,Credit Card
+A00104,U0086,HDFC Rewards,138251,Airline Loyalty
+A00105,U0133,Aeroplan,179870,Credit Card
+A00106,U0183,Etihad Guest,79601,Credit Card
+A00107,U0386,Axis EDGE,144347,Airline Loyalty
+A00108,U0062,Flying Blue,52857,Credit Card
+A00109,U0219,Aeroplan,130555,Credit Card
+A00110,U0405,HSBC Rewards,25700,Airline Loyalty
+A00111,U0246,ICICI Rewards,175536,Airline Loyalty
+A00112,U0230,Flying Blue,178423,Credit Card
+A00113,U0079,Amex Membership Rewards,98330,Airline Loyalty
+A00114,U0149,Amex Membership Rewards,149941,Airline Loyalty
+A00115,U0138,HSBC Rewards,157026,Credit Card
+A00116,U0471,HDFC Rewards,167627,Credit Card
+A00117,U0314,United MileagePlus,68353,Credit Card
+A00118,U0376,Flying Blue,105772,Airline Loyalty
+A00119,U0423,Flying Blue,96502,Credit Card
+A00120,U0389,Aeroplan,118943,Credit Card
+A00121,U0065,Etihad Guest,114850,Airline Loyalty
+A00122,U0013,Aeroplan,50095,Airline Loyalty
+A00123,U0213,United MileagePlus,150342,Credit Card
+A00124,U0474,Amex Membership Rewards,166980,Credit Card
+A00125,U0242,Amex Membership Rewards,20523,Credit Card
+A00126,U0493,Amex Membership Rewards,67433,Credit Card
+A00127,U0213,Amex Membership Rewards,24991,Airline Loyalty
+A00128,U0181,United MileagePlus,15775,Airline Loyalty
+A00129,U0338,HSBC Rewards,89995,Credit Card
+A00130,U0485,Etihad Guest,152745,Credit Card
+A00131,U0173,United MileagePlus,127808,Airline Loyalty
+A00132,U0160,Etihad Guest,163128,Credit Card
+A00133,U0164,United MileagePlus,142686,Credit Card
+A00134,U0465,Amex Membership Rewards,12415,Credit Card
+A00135,U0483,HSBC Rewards,179956,Credit Card
+A00136,U0497,Flying Blue,153036,Airline Loyalty
+A00137,U0188,Aeroplan,173798,Credit Card
+A00138,U0395,ICICI Rewards,42044,Credit Card
+A00139,U0191,HSBC Rewards,173616,Credit Card
+A00140,U0405,Flying Blue,54976,Airline Loyalty
+A00141,U0308,HDFC Rewards,168324,Credit Card
+A00142,U0256,United MileagePlus,8832,Credit Card
+A00143,U0183,HDFC Rewards,39148,Credit Card
+A00144,U0117,Flying Blue,117230,Credit Card
+A00145,U0282,HSBC Rewards,90076,Credit Card
+A00146,U0196,United MileagePlus,43402,Airline Loyalty
+A00147,U0034,ICICI Rewards,43578,Credit Card
+A00148,U0052,Amex Membership Rewards,95453,Credit Card
+A00149,U0112,United MileagePlus,158390,Airline Loyalty
+A00150,U0252,United MileagePlus,80715,Credit Card
+A00151,U0082,HSBC Rewards,116435,Credit Card
+A00152,U0232,HSBC Rewards,156538,Credit Card
+A00153,U0227,Flying Blue,100742,Airline Loyalty
+A00154,U0233,Axis EDGE,50475,Credit Card
+A00155,U0221,United MileagePlus,65142,Airline Loyalty
+A00156,U0436,Aeroplan,162636,Airline Loyalty
+A00157,U0413,United MileagePlus,158484,Credit Card
+A00158,U0422,Flying Blue,98526,Airline Loyalty
+A00159,U0042,Etihad Guest,56001,Credit Card
+A00160,U0021,HDFC Rewards,62649,Credit Card
+A00161,U0042,Amex Membership Rewards,171589,Airline Loyalty
+A00162,U0397,Axis EDGE,149228,Airline Loyalty
+A00163,U0113,ICICI Rewards,159136,Credit Card
+A00164,U0105,ICICI Rewards,30711,Credit Card
+A00165,U0192,ICICI Rewards,35106,Credit Card
+A00166,U0017,HSBC Rewards,70458,Airline Loyalty
+A00167,U0120,ICICI Rewards,152661,Credit Card
+A00168,U0393,Amex Membership Rewards,135429,Credit Card
+A00169,U0425,HDFC Rewards,106754,Credit Card
+A00170,U0129,ICICI Rewards,143286,Credit Card
+A00171,U0130,United MileagePlus,131479,Airline Loyalty
+A00172,U0060,United MileagePlus,163199,Credit Card
+A00173,U0048,HSBC Rewards,141213,Airline Loyalty
+A00174,U0029,Amex Membership Rewards,33884,Credit Card
+A00175,U0097,HDFC Rewards,7708,Airline Loyalty
+A00176,U0010,Axis EDGE,23375,Credit Card
+A00177,U0242,Flying Blue,20088,Credit Card
+A00178,U0314,HDFC Rewards,62615,Credit Card
+A00179,U0444,Flying Blue,115138,Credit Card
+A00180,U0232,Etihad Guest,15014,Credit Card
+A00181,U0277,Flying Blue,139345,Airline Loyalty
+A00182,U0284,Aeroplan,107842,Airline Loyalty
+A00183,U0203,United MileagePlus,166953,Credit Card
+A00184,U0247,Amex Membership Rewards,83077,Credit Card
+A00185,U0290,HSBC Rewards,144784,Credit Card
+A00186,U0264,Aeroplan,57874,Credit Card
+A00187,U0443,Flying Blue,74087,Airline Loyalty
+A00188,U0214,ICICI Rewards,17297,Airline Loyalty
+A00189,U0200,Amex Membership Rewards,32128,Credit Card
+A00190,U0433,Aeroplan,73368,Credit Card
+A00191,U0079,HSBC Rewards,83958,Credit Card
+A00192,U0401,United MileagePlus,37920,Airline Loyalty
+A00193,U0444,Amex Membership Rewards,147228,Credit Card
+A00194,U0343,HSBC Rewards,147180,Airline Loyalty
+A00195,U0344,Etihad Guest,167917,Airline Loyalty
+A00196,U0173,Etihad Guest,138872,Credit Card
+A00197,U0467,HSBC Rewards,178784,Airline Loyalty
+A00198,U0069,Aeroplan,138682,Credit Card
+A00199,U0416,Amex Membership Rewards,82603,Airline Loyalty
+A00200,U0428,Aeroplan,38872,Credit Card
+A00201,U0449,Axis EDGE,15728,Credit Card
+A00202,U0087,Flying Blue,100102,Airline Loyalty
+A00203,U0101,Axis EDGE,127049,Airline Loyalty
+A00204,U0008,Etihad Guest,25583,Airline Loyalty
+A00205,U0333,United MileagePlus,90774,Credit Card
+A00206,U0200,HDFC Rewards,143335,Airline Loyalty
+A00207,U0087,Flying Blue,131374,Credit Card
+A00208,U0043,Etihad Guest,155528,Airline Loyalty
+A00209,U0385,Aeroplan,96118,Credit Card
+A00210,U0109,Aeroplan,70942,Airline Loyalty
+A00211,U0435,Aeroplan,18689,Airline Loyalty
+A00212,U0408,United MileagePlus,169006,Airline Loyalty
+A00213,U0483,Axis EDGE,38276,Credit Card
+A00214,U0152,HDFC Rewards,106968,Credit Card
+A00215,U0017,Aeroplan,155945,Airline Loyalty
+A00216,U0133,Flying Blue,18050,Credit Card
+A00217,U0148,Amex Membership Rewards,71216,Airline Loyalty
+A00218,U0277,HDFC Rewards,89040,Credit Card
+A00219,U0232,United MileagePlus,26644,Credit Card
+A00220,U0314,HDFC Rewards,67021,Airline Loyalty
+A00221,U0415,Amex Membership Rewards,173197,Credit Card
+A00222,U0366,Flying Blue,47291,Credit Card
+A00223,U0228,Amex Membership Rewards,171132,Credit Card
+A00224,U0139,HSBC Rewards,137610,Credit Card
+A00225,U0436,Flying Blue,172248,Airline Loyalty
+A00226,U0399,HDFC Rewards,46520,Credit Card
+A00227,U0211,Aeroplan,30675,Airline Loyalty
+A00228,U0391,HDFC Rewards,154359,Airline Loyalty
+A00229,U0499,HDFC Rewards,5174,Credit Card
+A00230,U0028,Flying Blue,97268,Airline Loyalty
+A00231,U0051,HSBC Rewards,39998,Credit Card
+A00232,U0491,HDFC Rewards,148184,Credit Card
+A00233,U0442,Etihad Guest,110410,Airline Loyalty
+A00234,U0261,ICICI Rewards,80225,Credit Card
+A00235,U0261,ICICI Rewards,49814,Credit Card
+A00236,U0350,HDFC Rewards,90091,Credit Card
+A00237,U0352,Aeroplan,55719,Credit Card
+A00238,U0008,United MileagePlus,134887,Credit Card
+A00239,U0320,United MileagePlus,38919,Airline Loyalty
+A00240,U0138,Flying Blue,78155,Airline Loyalty
+A00241,U0038,ICICI Rewards,76569,Credit Card
+A00242,U0111,HDFC Rewards,46328,Credit Card
+A00243,U0480,United MileagePlus,29618,Credit Card
+A00244,U0368,HDFC Rewards,39675,Credit Card
+A00245,U0220,Flying Blue,23919,Credit Card
+A00246,U0337,ICICI Rewards,9173,Credit Card
+A00247,U0223,Amex Membership Rewards,114369,Credit Card
+A00248,U0136,Etihad Guest,31400,Credit Card
+A00249,U0256,Etihad Guest,75305,Credit Card
+A00250,U0360,United MileagePlus,173636,Airline Loyalty
+A00251,U0409,Etihad Guest,93791,Airline Loyalty
+A00252,U0329,Amex Membership Rewards,164034,Credit Card
+A00253,U0450,HDFC Rewards,75533,Airline Loyalty
+A00254,U0463,Flying Blue,108591,Airline Loyalty
+A00255,U0434,Amex Membership Rewards,146650,Credit Card
+A00256,U0451,Flying Blue,136060,Credit Card
+A00257,U0049,Flying Blue,154696,Airline Loyalty
+A00258,U0292,ICICI Rewards,44194,Airline Loyalty
+A00259,U0382,HDFC Rewards,114903,Credit Card
+A00260,U0324,Etihad Guest,136461,Airline Loyalty
+A00261,U0078,ICICI Rewards,104303,Credit Card
+A00262,U0105,Flying Blue,118903,Airline Loyalty
+A00263,U0169,United MileagePlus,72391,Airline Loyalty
+A00264,U0217,Etihad Guest,149866,Credit Card
+A00265,U0378,Etihad Guest,63002,Airline Loyalty
+A00266,U0119,HDFC Rewards,40531,Credit Card
+A00267,U0190,HSBC Rewards,9986,Airline Loyalty
+A00268,U0255,Axis EDGE,37298,Airline Loyalty
+A00269,U0370,Axis EDGE,6481,Credit Card
+A00270,U0266,Axis EDGE,61408,Airline Loyalty
+A00271,U0149,HSBC Rewards,126950,Credit Card
+A00272,U0164,HDFC Rewards,152907,Airline Loyalty
+A00273,U0140,HSBC Rewards,130355,Credit Card
+A00274,U0347,Axis EDGE,32798,Airline Loyalty
+A00275,U0488,ICICI Rewards,96649,Credit Card
+A00276,U0258,Amex Membership Rewards,69887,Airline Loyalty
+A00277,U0374,Flying Blue,24477,Credit Card
+A00278,U0269,HSBC Rewards,153338,Airline Loyalty
+A00279,U0181,HDFC Rewards,132815,Airline Loyalty
+A00280,U0160,HDFC Rewards,179598,Airline Loyalty
+A00281,U0351,Amex Membership Rewards,132426,Airline Loyalty
+A00282,U0400,United MileagePlus,147961,Airline Loyalty
+A00283,U0288,Etihad Guest,29335,Credit Card
+A00284,U0288,Axis EDGE,147326,Credit Card
+A00285,U0380,United MileagePlus,91610,Credit Card
+A00286,U0226,Axis EDGE,16442,Airline Loyalty
+A00287,U0011,Amex Membership Rewards,51289,Airline Loyalty
+A00288,U0010,Axis EDGE,58747,Credit Card
+A00289,U0271,Amex Membership Rewards,42327,Airline Loyalty
+A00290,U0273,Aeroplan,152271,Airline Loyalty
+A00291,U0424,United MileagePlus,77827,Credit Card
+A00292,U0402,United MileagePlus,111464,Credit Card
+A00293,U0183,Etihad Guest,136184,Credit Card
+A00294,U0457,Amex Membership Rewards,92051,Credit Card
+A00295,U0153,HSBC Rewards,155653,Airline Loyalty
+A00296,U0488,Aeroplan,64722,Credit Card
+A00297,U0315,ICICI Rewards,97036,Credit Card
+A00298,U0334,Axis EDGE,152595,Airline Loyalty
+A00299,U0124,Aeroplan,71960,Airline Loyalty
+A00300,U0473,Amex Membership Rewards,24552,Airline Loyalty
+A00301,U0114,Flying Blue,146880,Credit Card
+A00302,U0278,Axis EDGE,159692,Credit Card
+A00303,U0500,HDFC Rewards,5887,Airline Loyalty
+A00304,U0414,United MileagePlus,36802,Credit Card
+A00305,U0468,Amex Membership Rewards,90024,Credit Card
+A00306,U0213,HDFC Rewards,123639,Credit Card
+A00307,U0172,Etihad Guest,123248,Credit Card
+A00308,U0288,ICICI Rewards,86938,Credit Card
+A00309,U0435,ICICI Rewards,127746,Credit Card
+A00310,U0174,HDFC Rewards,31049,Credit Card
+A00311,U0113,United MileagePlus,82789,Credit Card
+A00312,U0376,Etihad Guest,89526,Airline Loyalty
+A00313,U0405,Flying Blue,143918,Credit Card
+A00314,U0483,United MileagePlus,51220,Airline Loyalty
+A00315,U0122,Aeroplan,51163,Credit Card
+A00316,U0032,ICICI Rewards,139837,Credit Card
+A00317,U0222,Aeroplan,122126,Credit Card
+A00318,U0119,Axis EDGE,86486,Credit Card
+A00319,U0039,HSBC Rewards,80277,Credit Card
+A00320,U0497,Amex Membership Rewards,109245,Credit Card
+A00321,U0268,Etihad Guest,127332,Airline Loyalty
+A00322,U0233,United MileagePlus,27931,Credit Card
+A00323,U0431,ICICI Rewards,94116,Credit Card
+A00324,U0018,Aeroplan,60633,Airline Loyalty
+A00325,U0149,Axis EDGE,56913,Credit Card
+A00326,U0397,Amex Membership Rewards,99776,Credit Card
+A00327,U0149,Amex Membership Rewards,30991,Credit Card
+A00328,U0126,United MileagePlus,109092,Airline Loyalty
+A00329,U0392,Etihad Guest,146633,Credit Card
+A00330,U0302,Flying Blue,152973,Credit Card
+A00331,U0360,United MileagePlus,100556,Credit Card
+A00332,U0238,Aeroplan,67875,Airline Loyalty
+A00333,U0135,HSBC Rewards,161989,Credit Card
+A00334,U0151,HDFC Rewards,67120,Airline Loyalty
+A00335,U0236,Flying Blue,138060,Credit Card
+A00336,U0224,Etihad Guest,115041,Airline Loyalty
+A00337,U0203,Axis EDGE,133467,Airline Loyalty
+A00338,U0256,Flying Blue,150328,Credit Card
+A00339,U0086,ICICI Rewards,123490,Credit Card
+A00340,U0150,Etihad Guest,131155,Credit Card
+A00341,U0235,HSBC Rewards,33230,Credit Card
+A00342,U0345,ICICI Rewards,64778,Airline Loyalty
+A00343,U0022,Flying Blue,50833,Credit Card
+A00344,U0348,HDFC Rewards,27625,Credit Card
+A00345,U0285,HDFC Rewards,37088,Credit Card
+A00346,U0269,HSBC Rewards,177239,Airline Loyalty
+A00347,U0466,Amex Membership Rewards,108937,Credit Card
+A00348,U0258,Axis EDGE,81361,Credit Card
+A00349,U0029,Amex Membership Rewards,93229,Credit Card
+A00350,U0213,HDFC Rewards,140189,Airline Loyalty
+A00351,U0463,HDFC Rewards,95265,Airline Loyalty
+A00352,U0436,Aeroplan,102718,Credit Card
+A00353,U0283,ICICI Rewards,65710,Credit Card
+A00354,U0050,Flying Blue,99876,Credit Card
+A00355,U0095,Axis EDGE,35949,Credit Card
+A00356,U0463,HSBC Rewards,158619,Airline Loyalty
+A00357,U0499,Flying Blue,73136,Airline Loyalty
+A00358,U0407,Aeroplan,116541,Credit Card
+A00359,U0088,HDFC Rewards,66842,Airline Loyalty
+A00360,U0044,HSBC Rewards,31990,Credit Card
+A00361,U0461,HDFC Rewards,152265,Airline Loyalty
+A00362,U0278,Axis EDGE,35109,Airline Loyalty
+A00363,U0171,ICICI Rewards,135356,Credit Card
+A00364,U0421,Flying Blue,155305,Airline Loyalty
+A00365,U0189,Flying Blue,133133,Credit Card
+A00366,U0353,Amex Membership Rewards,170582,Credit Card
+A00367,U0184,HSBC Rewards,6306,Credit Card
+A00368,U0003,Aeroplan,8849,Credit Card
+A00369,U0191,Amex Membership Rewards,17360,Airline Loyalty
+A00370,U0118,Axis EDGE,116072,Airline Loyalty
+A00371,U0019,Aeroplan,99767,Credit Card
+A00372,U0023,ICICI Rewards,173035,Airline Loyalty
+A00373,U0413,ICICI Rewards,59330,Airline Loyalty
+A00374,U0030,ICICI Rewards,56707,Credit Card
+A00375,U0295,ICICI Rewards,23689,Credit Card
+A00376,U0108,Amex Membership Rewards,34084,Credit Card
+A00377,U0367,Etihad Guest,45387,Airline Loyalty
+A00378,U0281,Aeroplan,79816,Airline Loyalty
+A00379,U0128,HSBC Rewards,7642,Credit Card
+A00380,U0229,Axis EDGE,47137,Airline Loyalty
+A00381,U0111,United MileagePlus,67260,Airline Loyalty
+A00382,U0136,HDFC Rewards,151510,Credit Card
+A00383,U0362,HSBC Rewards,53442,Credit Card
+A00384,U0186,HDFC Rewards,108061,Credit Card
+A00385,U0144,Aeroplan,139066,Credit Card
+A00386,U0072,HSBC Rewards,130844,Credit Card
+A00387,U0129,ICICI Rewards,104575,Credit Card
+A00388,U0364,ICICI Rewards,6813,Credit Card
+A00389,U0261,United MileagePlus,98027,Credit Card
+A00390,U0003,HDFC Rewards,128489,Airline Loyalty
+A00391,U0449,Axis EDGE,89381,Credit Card
+A00392,U0388,Aeroplan,60276,Airline Loyalty
+A00393,U0104,ICICI Rewards,46243,Credit Card
+A00394,U0483,Etihad Guest,65272,Credit Card
+A00395,U0224,Amex Membership Rewards,178123,Airline Loyalty
+A00396,U0320,Amex Membership Rewards,70618,Credit Card
+A00397,U0362,Axis EDGE,6920,Credit Card
+A00398,U0354,Amex Membership Rewards,111121,Airline Loyalty
+A00399,U0491,HDFC Rewards,81872,Credit Card
+A00400,U0473,ICICI Rewards,86132,Credit Card
+A00401,U0010,ICICI Rewards,7093,Credit Card
+A00402,U0405,Etihad Guest,17905,Credit Card
+A00403,U0384,HSBC Rewards,126759,Credit Card
+A00404,U0302,Amex Membership Rewards,160423,Credit Card
+A00405,U0231,HDFC Rewards,35981,Airline Loyalty
+A00406,U0219,Flying Blue,78903,Airline Loyalty
+A00407,U0411,Amex Membership Rewards,75821,Airline Loyalty
+A00408,U0066,Axis EDGE,114200,Credit Card
+A00409,U0425,HSBC Rewards,87289,Airline Loyalty
+A00410,U0112,Amex Membership Rewards,121506,Credit Card
+A00411,U0013,HDFC Rewards,83513,Airline Loyalty
+A00412,U0393,Amex Membership Rewards,155946,Airline Loyalty
+A00413,U0500,Axis EDGE,143746,Airline Loyalty
+A00414,U0420,Flying Blue,55516,Credit Card
+A00415,U0086,Aeroplan,74212,Credit Card
+A00416,U0234,United MileagePlus,138498,Credit Card
+A00417,U0090,Flying Blue,135970,Airline Loyalty
+A00418,U0314,Amex Membership Rewards,95009,Credit Card
+A00419,U0054,ICICI Rewards,166015,Airline Loyalty
+A00420,U0012,Etihad Guest,49816,Credit Card
+A00421,U0209,ICICI Rewards,9138,Credit Card
+A00422,U0462,Flying Blue,96176,Credit Card
+A00423,U0014,ICICI Rewards,80945,Credit Card
+A00424,U0121,HDFC Rewards,9017,Credit Card
+A00425,U0418,ICICI Rewards,15451,Credit Card
+A00426,U0437,HSBC Rewards,98863,Airline Loyalty
+A00427,U0377,Aeroplan,15278,Credit Card
+A00428,U0020,Amex Membership Rewards,48764,Credit Card
+A00429,U0075,ICICI Rewards,128030,Airline Loyalty
+A00430,U0400,Axis EDGE,137206,Airline Loyalty
+A00431,U0243,Aeroplan,67943,Airline Loyalty
+A00432,U0223,Aeroplan,100667,Credit Card
+A00433,U0070,ICICI Rewards,59318,Airline Loyalty
+A00434,U0312,Aeroplan,108423,Airline Loyalty
+A00435,U0211,Etihad Guest,108998,Credit Card
+A00436,U0101,ICICI Rewards,65128,Credit Card
+A00437,U0186,HDFC Rewards,26869,Credit Card
+A00438,U0132,Flying Blue,10039,Credit Card
+A00439,U0111,HSBC Rewards,157353,Airline Loyalty
+A00440,U0381,United MileagePlus,117935,Credit Card
+A00441,U0132,Aeroplan,15442,Airline Loyalty
+A00442,U0020,HDFC Rewards,78788,Credit Card
+A00443,U0394,Amex Membership Rewards,124729,Credit Card
+A00444,U0024,Amex Membership Rewards,32586,Credit Card
+A00445,U0227,HSBC Rewards,58053,Credit Card
+A00446,U0154,Aeroplan,91346,Airline Loyalty
+A00447,U0293,Etihad Guest,72087,Airline Loyalty
+A00448,U0230,HSBC Rewards,148697,Credit Card
+A00449,U0469,Aeroplan,39397,Credit Card
+A00450,U0310,HDFC Rewards,63671,Credit Card
+A00451,U0488,Flying Blue,121214,Airline Loyalty
+A00452,U0359,Etihad Guest,71897,Credit Card
+A00453,U0405,United MileagePlus,162221,Credit Card
+A00454,U0202,Amex Membership Rewards,141355,Credit Card
+A00455,U0038,Axis EDGE,143682,Airline Loyalty
+A00456,U0430,HDFC Rewards,179398,Credit Card
+A00457,U0260,Amex Membership Rewards,19924,Credit Card
+A00458,U0188,ICICI Rewards,118143,Airline Loyalty
+A00459,U0057,Axis EDGE,115253,Credit Card
+A00460,U0429,Amex Membership Rewards,105297,Credit Card
+A00461,U0020,HSBC Rewards,5869,Airline Loyalty
+A00462,U0273,Etihad Guest,102088,Airline Loyalty
+A00463,U0119,Amex Membership Rewards,6014,Credit Card
+A00464,U0071,United MileagePlus,15103,Credit Card
+A00465,U0004,Flying Blue,115317,Credit Card
+A00466,U0221,HSBC Rewards,169530,Airline Loyalty
+A00467,U0014,HDFC Rewards,87409,Credit Card
+A00468,U0003,HDFC Rewards,28248,Airline Loyalty
+A00469,U0216,HDFC Rewards,179588,Airline Loyalty
+A00470,U0229,HDFC Rewards,165133,Credit Card
+A00471,U0336,Flying Blue,160242,Airline Loyalty
+A00472,U0186,Amex Membership Rewards,13024,Airline Loyalty
+A00473,U0055,Aeroplan,90947,Credit Card
+A00474,U0500,Amex Membership Rewards,179875,Credit Card
+A00475,U0388,ICICI Rewards,155368,Credit Card
+A00476,U0376,Etihad Guest,96829,Airline Loyalty
+A00477,U0254,Axis EDGE,97708,Airline Loyalty
+A00478,U0024,Aeroplan,91664,Credit Card
+A00479,U0162,Aeroplan,154329,Airline Loyalty
+A00480,U0158,Amex Membership Rewards,148927,Credit Card
+A00481,U0082,Aeroplan,90178,Credit Card
+A00482,U0403,ICICI Rewards,106121,Credit Card
+A00483,U0159,Axis EDGE,25025,Credit Card
+A00484,U0188,United MileagePlus,140530,Credit Card
+A00485,U0060,Flying Blue,68610,Credit Card
+A00486,U0403,Amex Membership Rewards,75843,Credit Card
+A00487,U0305,Flying Blue,112237,Airline Loyalty
+A00488,U0319,United MileagePlus,179499,Credit Card
+A00489,U0366,Amex Membership Rewards,135299,Credit Card
+A00490,U0211,Amex Membership Rewards,174578,Credit Card
+A00491,U0406,Axis EDGE,10668,Airline Loyalty
+A00492,U0152,Flying Blue,78233,Credit Card
+A00493,U0109,HDFC Rewards,160489,Credit Card
+A00494,U0076,Flying Blue,86982,Airline Loyalty
+A00495,U0030,Etihad Guest,111133,Credit Card
+A00496,U0314,Etihad Guest,15751,Credit Card
+A00497,U0486,Amex Membership Rewards,51218,Airline Loyalty
+A00498,U0117,HDFC Rewards,131649,Credit Card
+A00499,U0415,HSBC Rewards,12352,Credit Card
+A00500,U0356,United MileagePlus,93835,Credit Card
+A00501,U0192,ICICI Rewards,102493,Credit Card
+A00502,U0019,HDFC Rewards,33927,Credit Card
+A00503,U0432,ICICI Rewards,177166,Credit Card
+A00504,U0173,Flying Blue,106948,Credit Card
+A00505,U0228,Flying Blue,34493,Credit Card
+A00506,U0350,ICICI Rewards,36707,Airline Loyalty
+A00507,U0183,United MileagePlus,143368,Credit Card
+A00508,U0113,HDFC Rewards,161470,Credit Card
+A00509,U0183,HSBC Rewards,40842,Airline Loyalty
+A00510,U0481,Amex Membership Rewards,18261,Airline Loyalty
+A00511,U0146,Axis EDGE,81709,Credit Card
+A00512,U0319,Flying Blue,100985,Airline Loyalty
+A00513,U0116,Etihad Guest,111616,Credit Card
+A00514,U0113,United MileagePlus,72173,Credit Card
+A00515,U0251,Axis EDGE,36781,Airline Loyalty
+A00516,U0476,HSBC Rewards,18652,Credit Card
+A00517,U0251,Aeroplan,10103,Credit Card
+A00518,U0303,Amex Membership Rewards,30500,Credit Card
+A00519,U0459,Flying Blue,105336,Credit Card
+A00520,U0313,Amex Membership Rewards,171601,Credit Card
+A00521,U0118,Axis EDGE,118499,Airline Loyalty
+A00522,U0301,Amex Membership Rewards,154524,Credit Card
+A00523,U0161,Aeroplan,54393,Airline Loyalty
+A00524,U0401,Axis EDGE,167246,Credit Card
+A00525,U0198,Flying Blue,171508,Airline Loyalty
+A00526,U0260,HDFC Rewards,52406,Airline Loyalty
+A00527,U0148,Etihad Guest,68059,Airline Loyalty
+A00528,U0240,Axis EDGE,152026,Credit Card
+A00529,U0047,Aeroplan,87722,Credit Card
+A00530,U0475,Axis EDGE,17356,Credit Card
+A00531,U0399,Axis EDGE,133128,Airline Loyalty
+A00532,U0198,Flying Blue,7187,Airline Loyalty
+A00533,U0047,Axis EDGE,82243,Credit Card
+A00534,U0078,Etihad Guest,40098,Credit Card
+A00535,U0124,Amex Membership Rewards,157297,Credit Card
+A00536,U0075,Flying Blue,139678,Credit Card
+A00537,U0359,Etihad Guest,62620,Credit Card
+A00538,U0137,Flying Blue,168900,Airline Loyalty
+A00539,U0090,Etihad Guest,131270,Airline Loyalty
+A00540,U0400,Aeroplan,162561,Credit Card
+A00541,U0325,Etihad Guest,19387,Credit Card
+A00542,U0500,ICICI Rewards,74463,Credit Card
+A00543,U0061,Etihad Guest,138663,Credit Card
+A00544,U0138,HDFC Rewards,96683,Credit Card
+A00545,U0050,HDFC Rewards,67061,Credit Card
+A00546,U0259,United MileagePlus,86257,Airline Loyalty
+A00547,U0461,ICICI Rewards,66753,Credit Card
+A00548,U0107,ICICI Rewards,89774,Credit Card
+A00549,U0113,Amex Membership Rewards,147159,Airline Loyalty
+A00550,U0350,ICICI Rewards,166888,Airline Loyalty
+A00551,U0254,Amex Membership Rewards,28408,Credit Card
+A00552,U0118,United MileagePlus,129116,Credit Card
+A00553,U0493,United MileagePlus,136208,Credit Card
+A00554,U0198,Aeroplan,22413,Airline Loyalty
+A00555,U0337,HDFC Rewards,118650,Airline Loyalty
+A00556,U0365,Etihad Guest,64500,Airline Loyalty
+A00557,U0051,Etihad Guest,89514,Credit Card
+A00558,U0245,HSBC Rewards,61358,Airline Loyalty
+A00559,U0403,Flying Blue,71197,Credit Card
+A00560,U0426,Aeroplan,168926,Credit Card
+A00561,U0035,HSBC Rewards,81240,Credit Card
+A00562,U0302,HSBC Rewards,21322,Credit Card
+A00563,U0410,Axis EDGE,118053,Credit Card
+A00564,U0499,Axis EDGE,11968,Airline Loyalty
+A00565,U0069,HSBC Rewards,32518,Airline Loyalty
+A00566,U0349,ICICI Rewards,56925,Credit Card
+A00567,U0320,Flying Blue,116900,Credit Card
+A00568,U0421,Aeroplan,98422,Credit Card
+A00569,U0468,HSBC Rewards,6700,Credit Card
+A00570,U0049,Etihad Guest,98782,Credit Card
+A00571,U0405,Flying Blue,28199,Airline Loyalty
+A00572,U0074,Axis EDGE,168187,Credit Card
+A00573,U0192,Etihad Guest,10520,Credit Card
+A00574,U0261,Axis EDGE,114814,Credit Card
+A00575,U0356,Axis EDGE,172527,Airline Loyalty
+A00576,U0070,Flying Blue,128364,Airline Loyalty
+A00577,U0090,Axis EDGE,177677,Airline Loyalty
+A00578,U0260,United MileagePlus,19955,Airline Loyalty
+A00579,U0126,HDFC Rewards,149989,Credit Card
+A00580,U0231,United MileagePlus,69925,Credit Card
+A00581,U0295,HDFC Rewards,112216,Airline Loyalty
+A00582,U0498,Axis EDGE,75269,Credit Card
+A00583,U0419,Aeroplan,167026,Credit Card
+A00584,U0129,Aeroplan,46458,Credit Card
+A00585,U0280,HDFC Rewards,94037,Credit Card
+A00586,U0313,Etihad Guest,157185,Credit Card
+A00587,U0100,Flying Blue,104977,Credit Card
+A00588,U0326,Axis EDGE,48939,Airline Loyalty
+A00589,U0297,Flying Blue,34345,Credit Card
+A00590,U0182,United MileagePlus,115107,Credit Card
+A00591,U0174,Aeroplan,126866,Credit Card
+A00592,U0316,ICICI Rewards,74166,Credit Card
+A00593,U0364,United MileagePlus,102406,Credit Card
+A00594,U0188,United MileagePlus,54298,Credit Card
+A00595,U0057,HDFC Rewards,49942,Credit Card
+A00596,U0031,Amex Membership Rewards,8453,Credit Card
+A00597,U0084,United MileagePlus,107811,Credit Card
+A00598,U0152,Axis EDGE,59935,Credit Card
+A00599,U0473,HSBC Rewards,127439,Credit Card
+A00600,U0036,HSBC Rewards,179442,Credit Card
+A00601,U0213,Axis EDGE,13328,Credit Card
+A00602,U0414,Amex Membership Rewards,20534,Airline Loyalty
+A00603,U0408,Amex Membership Rewards,90280,Credit Card
+A00604,U0364,HDFC Rewards,41320,Credit Card
+A00605,U0106,Aeroplan,54170,Credit Card
+A00606,U0414,Flying Blue,105546,Airline Loyalty
+A00607,U0342,Amex Membership Rewards,85201,Airline Loyalty
+A00608,U0220,ICICI Rewards,13640,Airline Loyalty
+A00609,U0391,HDFC Rewards,166121,Airline Loyalty
+A00610,U0163,Etihad Guest,141690,Credit Card
+A00611,U0439,HDFC Rewards,137992,Airline Loyalty
+A00612,U0220,United MileagePlus,48937,Credit Card
+A00613,U0270,Flying Blue,148279,Credit Card
+A00614,U0120,Etihad Guest,169044,Credit Card
+A00615,U0394,Etihad Guest,146871,Credit Card
+A00616,U0336,ICICI Rewards,164988,Airline Loyalty
+A00617,U0400,ICICI Rewards,75463,Credit Card
+A00618,U0182,ICICI Rewards,98500,Airline Loyalty
+A00619,U0479,HDFC Rewards,42158,Credit Card
+A00620,U0106,Flying Blue,89607,Credit Card
+A00621,U0217,HDFC Rewards,124639,Credit Card
+A00622,U0205,HSBC Rewards,76696,Credit Card
+A00623,U0070,United MileagePlus,66510,Airline Loyalty
+A00624,U0044,United MileagePlus,125076,Credit Card
+A00625,U0329,ICICI Rewards,63692,Credit Card
+A00626,U0301,HSBC Rewards,135841,Airline Loyalty
+A00627,U0228,Amex Membership Rewards,20810,Credit Card
+A00628,U0184,Amex Membership Rewards,141198,Airline Loyalty
+A00629,U0107,ICICI Rewards,166081,Credit Card
+A00630,U0084,HDFC Rewards,116718,Credit Card
+A00631,U0338,ICICI Rewards,95932,Credit Card
+A00632,U0250,Aeroplan,5192,Credit Card
+A00633,U0363,Etihad Guest,41413,Credit Card
+A00634,U0441,United MileagePlus,148888,Airline Loyalty
+A00635,U0021,Amex Membership Rewards,44082,Airline Loyalty
+A00636,U0196,Axis EDGE,70048,Airline Loyalty
+A00637,U0178,Amex Membership Rewards,128130,Credit Card
+A00638,U0417,United MileagePlus,55940,Credit Card
+A00639,U0475,Etihad Guest,168202,Credit Card
+A00640,U0007,United MileagePlus,45142,Credit Card
+A00641,U0070,Axis EDGE,41468,Airline Loyalty
+A00642,U0127,ICICI Rewards,166770,Credit Card
+A00643,U0399,HSBC Rewards,146727,Credit Card
+A00644,U0466,Axis EDGE,166147,Credit Card
+A00645,U0160,United MileagePlus,145431,Airline Loyalty
+A00646,U0248,United MileagePlus,134048,Credit Card
+A00647,U0203,Aeroplan,47056,Credit Card
+A00648,U0148,Aeroplan,56831,Credit Card
+A00649,U0472,Flying Blue,64191,Credit Card
+A00650,U0143,Aeroplan,126948,Credit Card
+A00651,U0432,HDFC Rewards,169344,Credit Card
+A00652,U0199,HSBC Rewards,113117,Airline Loyalty
+A00653,U0405,Etihad Guest,19671,Credit Card
+A00654,U0426,Axis EDGE,32048,Airline Loyalty
+A00655,U0154,United MileagePlus,30963,Airline Loyalty
+A00656,U0492,Flying Blue,48954,Airline Loyalty
+A00657,U0376,Flying Blue,100430,Credit Card
+A00658,U0384,Etihad Guest,5717,Credit Card
+A00659,U0142,HSBC Rewards,16676,Credit Card
+A00660,U0313,Axis EDGE,140506,Airline Loyalty
+A00661,U0165,Amex Membership Rewards,123696,Credit Card
+A00662,U0314,Aeroplan,135830,Airline Loyalty
+A00663,U0021,ICICI Rewards,9994,Credit Card
+A00664,U0082,Flying Blue,9234,Credit Card
+A00665,U0069,Aeroplan,74300,Credit Card
+A00666,U0131,Aeroplan,48949,Credit Card
+A00667,U0087,HDFC Rewards,42405,Credit Card
+A00668,U0218,HSBC Rewards,39872,Credit Card
+A00669,U0421,ICICI Rewards,47215,Credit Card
+A00670,U0472,Amex Membership Rewards,28185,Credit Card
+A00671,U0305,United MileagePlus,179514,Credit Card
+A00672,U0403,HDFC Rewards,46153,Credit Card
+A00673,U0371,Aeroplan,82535,Credit Card
+A00674,U0345,Aeroplan,138653,Airline Loyalty
+A00675,U0341,ICICI Rewards,56717,Airline Loyalty
+A00676,U0384,ICICI Rewards,7763,Airline Loyalty
+A00677,U0396,ICICI Rewards,97910,Credit Card
+A00678,U0445,Aeroplan,60480,Credit Card
+A00679,U0425,Flying Blue,174831,Credit Card
+A00680,U0161,Axis EDGE,123094,Credit Card
+A00681,U0178,Aeroplan,161379,Credit Card
+A00682,U0117,HDFC Rewards,16064,Airline Loyalty
+A00683,U0196,HSBC Rewards,81848,Credit Card
+A00684,U0383,Amex Membership Rewards,42548,Credit Card
+A00685,U0490,United MileagePlus,173017,Airline Loyalty
+A00686,U0327,Amex Membership Rewards,11476,Airline Loyalty
+A00687,U0086,Aeroplan,95101,Airline Loyalty
+A00688,U0289,HDFC Rewards,7382,Credit Card
+A00689,U0081,Aeroplan,169474,Credit Card
+A00690,U0152,HSBC Rewards,163018,Credit Card
+A00691,U0061,Flying Blue,84698,Credit Card
+A00692,U0061,United MileagePlus,158407,Credit Card
+A00693,U0354,HSBC Rewards,50095,Credit Card
+A00694,U0028,Aeroplan,134974,Airline Loyalty
+A00695,U0442,HDFC Rewards,32197,Credit Card
+A00696,U0043,HSBC Rewards,132619,Airline Loyalty
+A00697,U0169,Etihad Guest,27010,Airline Loyalty
+A00698,U0423,HDFC Rewards,160195,Credit Card
+A00699,U0086,Flying Blue,92923,Airline Loyalty
+A00700,U0177,Aeroplan,138962,Credit Card
+A00701,U0017,ICICI Rewards,135526,Credit Card
+A00702,U0098,United MileagePlus,114162,Airline Loyalty
+A00703,U0454,Axis EDGE,125927,Credit Card
+A00704,U0494,ICICI Rewards,13026,Airline Loyalty
+A00705,U0198,Aeroplan,69925,Credit Card
+A00706,U0098,Etihad Guest,73842,Credit Card
+A00707,U0065,ICICI Rewards,38665,Credit Card
+A00708,U0330,United MileagePlus,14277,Credit Card
+A00709,U0341,HDFC Rewards,178311,Credit Card
+A00710,U0005,Etihad Guest,53008,Airline Loyalty
+A00711,U0002,Etihad Guest,19683,Airline Loyalty
+A00712,U0022,HSBC Rewards,136742,Airline Loyalty
+A00713,U0112,United MileagePlus,153961,Credit Card
+A00714,U0057,ICICI Rewards,83542,Airline Loyalty
+A00715,U0066,HSBC Rewards,59319,Airline Loyalty
+A00716,U0330,Etihad Guest,97067,Airline Loyalty
+A00717,U0098,HSBC Rewards,157711,Credit Card
+A00718,U0144,Amex Membership Rewards,152705,Airline Loyalty
+A00719,U0368,United MileagePlus,170732,Airline Loyalty
+A00720,U0435,Flying Blue,73975,Credit Card
+A00721,U0125,HDFC Rewards,168244,Airline Loyalty
+A00722,U0167,Etihad Guest,106158,Credit Card
+A00723,U0086,United MileagePlus,16577,Credit Card
+A00724,U0076,Flying Blue,82299,Credit Card
+A00725,U0344,Flying Blue,25176,Credit Card
+A00726,U0495,Aeroplan,68972,Credit Card
+A00727,U0424,HSBC Rewards,125018,Airline Loyalty
+A00728,U0294,Flying Blue,177075,Credit Card
+A00729,U0444,Amex Membership Rewards,24996,Airline Loyalty
+A00730,U0059,United MileagePlus,105922,Airline Loyalty
+A00731,U0138,Axis EDGE,91598,Credit Card
+A00732,U0099,Axis EDGE,40931,Airline Loyalty
+A00733,U0192,Etihad Guest,129168,Airline Loyalty
+A00734,U0243,HSBC Rewards,171782,Airline Loyalty
+A00735,U0319,Flying Blue,128099,Airline Loyalty
+A00736,U0049,United MileagePlus,39693,Airline Loyalty
+A00737,U0448,Etihad Guest,171812,Credit Card
+A00738,U0032,ICICI Rewards,113944,Credit Card
+A00739,U0391,Flying Blue,22374,Airline Loyalty
+A00740,U0277,HSBC Rewards,86471,Credit Card
+A00741,U0020,Axis EDGE,50913,Credit Card
+A00742,U0154,Aeroplan,128683,Credit Card
+A00743,U0383,United MileagePlus,49516,Airline Loyalty
+A00744,U0068,HDFC Rewards,92796,Credit Card
+A00745,U0366,Etihad Guest,31069,Airline Loyalty
+A00746,U0372,United MileagePlus,123333,Credit Card
+A00747,U0214,United MileagePlus,89811,Credit Card
+A00748,U0143,Amex Membership Rewards,123028,Credit Card
+A00749,U0376,ICICI Rewards,44178,Credit Card
+A00750,U0232,Flying Blue,37821,Airline Loyalty
+A00751,U0213,Flying Blue,21999,Airline Loyalty
+A00752,U0079,HSBC Rewards,43712,Airline Loyalty
+A00753,U0214,HDFC Rewards,176244,Credit Card
+A00754,U0116,HDFC Rewards,38722,Credit Card
+A00755,U0092,HSBC Rewards,15625,Airline Loyalty
+A00756,U0270,Aeroplan,11859,Airline Loyalty
+A00757,U0411,Flying Blue,177681,Credit Card
+A00758,U0381,Aeroplan,179379,Credit Card
+A00759,U0489,United MileagePlus,115986,Credit Card
+A00760,U0168,United MileagePlus,26839,Airline Loyalty
+A00761,U0058,Axis EDGE,32216,Airline Loyalty
+A00762,U0284,HDFC Rewards,57953,Credit Card
+A00763,U0026,Axis EDGE,54522,Credit Card
+A00764,U0369,ICICI Rewards,140958,Airline Loyalty
+A00765,U0447,HSBC Rewards,116249,Credit Card
+A00766,U0066,HSBC Rewards,12485,Credit Card
+A00767,U0409,United MileagePlus,167527,Credit Card
+A00768,U0248,Flying Blue,152839,Credit Card
+A00769,U0254,Aeroplan,117701,Credit Card
+A00770,U0387,HDFC Rewards,164525,Airline Loyalty
+A00771,U0456,Axis EDGE,107638,Airline Loyalty
+A00772,U0044,Aeroplan,17226,Airline Loyalty
+A00773,U0097,Axis EDGE,98405,Airline Loyalty
+A00774,U0042,ICICI Rewards,27588,Credit Card
+A00775,U0500,ICICI Rewards,167781,Airline Loyalty
+A00776,U0227,Aeroplan,42019,Credit Card
+A00777,U0262,Aeroplan,70133,Airline Loyalty
+A00778,U0167,Aeroplan,119444,Airline Loyalty
+A00779,U0436,Axis EDGE,122603,Credit Card
+A00780,U0279,Amex Membership Rewards,163598,Credit Card
+A00781,U0089,Aeroplan,133585,Credit Card
+A00782,U0379,Flying Blue,48395,Credit Card
+A00783,U0178,HDFC Rewards,160103,Credit Card
+A00784,U0427,HDFC Rewards,130814,Airline Loyalty
+A00785,U0403,Axis EDGE,173773,Airline Loyalty
+A00786,U0197,Aeroplan,117599,Credit Card
+A00787,U0307,United MileagePlus,30939,Credit Card
+A00788,U0267,HSBC Rewards,156396,Credit Card
+A00789,U0268,Amex Membership Rewards,158939,Airline Loyalty
+A00790,U0074,Flying Blue,5203,Credit Card
+A00791,U0008,United MileagePlus,152616,Credit Card
+A00792,U0408,ICICI Rewards,151971,Credit Card
+A00793,U0476,United MileagePlus,34063,Credit Card
+A00794,U0297,Axis EDGE,95880,Credit Card
+A00795,U0164,Amex Membership Rewards,8748,Airline Loyalty
+A00796,U0485,Etihad Guest,122269,Credit Card
+A00797,U0085,Etihad Guest,85764,Airline Loyalty
+A00798,U0072,Aeroplan,156956,Credit Card
+A00799,U0055,Aeroplan,161255,Airline Loyalty
+A00800,U0393,Axis EDGE,113036,Airline Loyalty
